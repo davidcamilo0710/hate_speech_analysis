@@ -69,24 +69,19 @@ This graph shows that **XGBoost** and **Random Forest** achieve the best perform
 
 <p align="center">
   <i>(Insert the F1-Score comparison image here)</i><br>
-  <img src="URL_F1_SCORE_GRAPH" alt="F1-Score Comparison"/>
+  <img width="8376" height="3144" alt="F1-Score Comparison" src="https://github.com/user-attachments/assets/6c909d66-c34a-4cba-a833-502b496327da" />
 </p>
 
 #### ROC Curves
 
 The ROC curves demonstrate the excellent ability of all models to distinguish between the two classes, with AUC values very close to 1.
 
-<p align="center">
-  <i>(Insert the ROC Curves image here)</i><br>
-  <img src="URL_ROC_CURVE_GRAPH" alt="Model ROC Curves"/>
-</p>
-
 ---
 
 ## Code and Technologies
 
-* **Linguistic Analysis Notebook:** **[hate-analysis.ipynb](URL_TO_ANALYSIS_NOTEBOOK)**
-* **Classification Notebook:** **[hate-classification.ipynb](URL_TO_CLASSIFICATION_NOTEBOOK)**
+* **Linguistic Analysis Notebook:** **[hate-analysis.ipynb](https://github.com/davidcamilo0710/hate_speech_analysis/blob/main/hate_analysis.ipynb)**
+* **Classification Notebook:** **[hate-classification.ipynb](https://github.com/davidcamilo0710/hate_speech_analysis/blob/main/hate_clasification.ipynb)**
 * **Language:** Python
 * **Core Libraries:**
     * **NLP Analysis:** SpaCy, Pandas
