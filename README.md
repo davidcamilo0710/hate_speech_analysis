@@ -1,5 +1,7 @@
 # Hate Speech Analysis and Classification with NLP and Machine Learning
 
+<img width="2816" height="1536" alt="hate" src="https://github.com/user-attachments/assets/f1612164-38ee-4500-a0b4-ada08dadc1ad" />
+
 This repository contains a comprehensive project for the analysis and automatic detection of hate speech in text. The project is divided into two main parts:
 
 1.  **Linguistic Analysis (hate-analysis):** A deep exploratory analysis to identify the features and patterns that distinguish hate speech from non-hate speech.
